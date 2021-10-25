@@ -14,7 +14,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name = 'BSplineFit',
-    version = '1.0.0',  # Ideally should be same as your GitHub release tag varsion
+    version = '1.1.0',  # Ideally should be same as your GitHub release tag varsion
     description = 'A uniform cubic B-spline regression library',
     long_description=README,
     long_description_content_type="text/markdown",
