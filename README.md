@@ -8,8 +8,8 @@ pip install BSplineFit
 
 ## Paper / Thesis
 Marcelo Jacinto, 
-[Cooperative Motion Control of Aerial and Marine Vehicles for Environmental Applications
-](https://fenix.tecnico.ulisboa.pt/cursos/meec/dissertacao/1972678479054971)
+"[Cooperative Motion Control of Aerial and Marine Vehicles for Environmental Applications
+](https://fenix.tecnico.ulisboa.pt/cursos/meec/dissertacao/1972678479054971)"M.Sc. thesis, Instituto Superior Técnico, 10 2021
 
 If you use BSplineFit, please cite:
 
